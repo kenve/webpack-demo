@@ -1,0 +1,21 @@
+{
+  "name": "demo03",
+  "version": "1.0.0",
+  "description": "A simple webpack example.",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kenve",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  },
+  "dependencies": {
+    "webpack": "^1.12.14"
+  }
+}
