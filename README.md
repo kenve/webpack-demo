@@ -1,5 +1,5 @@
 # webpack-demo
-[webpack](//webpack.github.io) 学习笔记
+[Webpack](//webpack.github.io) 学习笔记
 
 ## HelloWorld
 创建一个静态页面 `index.html` 和一个 JS 入口文件 `entry.js`,（查看[Demo](demo01/)）；
